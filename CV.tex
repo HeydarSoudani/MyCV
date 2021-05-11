@@ -1,0 +1,575 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% "ModernCV" CV and Cover Letter
+% LaTeX Template
+% Version 1.11 (19/6/14)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Xavier Danaux (xdanaux@gmail.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Important note:
+% This template requires the moderncv.cls and .sty files to be in the same 
+% directory as this .tex file. These files provide the resume style and themes 
+% used for structuring the document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[10pt,a4paper,sans]{moderncv} % Font sizes: 10, 11, or 12; paper sizes: a4paper, letterpaper, a5paper, legalpaper, executivepaper or landscape; font families: sans or roman
+
+\moderncvstyle{banking} % CV theme - options include: 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{blue} % CV color - options include: 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+
+\usepackage{lipsum} % Used for inserting dummy 'Lorem ipsum' text into the template
+\usepackage{multicol}
+\usepackage{graphicx}
+\usepackage[scale=0.77]{geometry}
+%\usepackage{cmcyr}
+% Reduce document margins
+%\setlength{\hintscolumnwidth}{3cm} % Uncomment to change the width of the dates column
+%\setlength{\makecvtitlenamewidth}{10cm} % For the 'classic' style, uncomment to adjust the width of the space allocated to your name
+\usepackage{fontawesome}
+
+%image inline with text
+\newcommand*{\authorimg}[1]{%
+	\raisebox{-.3\baselineskip}{%
+		\includegraphics[
+		height=\baselineskip,
+		width=\baselineskip,
+		keepaspectratio,
+		]{#1}%
+	}%
+}
+%----------------------------------------------------------------------------------------
+%	NAME AND CONTACT INFORMATION SECTION
+%----------------------------------------------------------------------------------------
+
+\firstname{Heydar} % Your first name
+\familyname{Soudani} % Your last name
+
+% All information in this block is optional, comment out any lines you don't need
+\title{Curriculum Vitae}
+%\address{
+%	\textbf{\href{http://ee.aut.ac.ir/}{Amirkabir University of Technology - Department of Electrical Engineering}{}}}
+\mobile{(+98) 935 950 3158}
+%\phone{(000) 111 1112}
+%\fax{(000) 111 1113}
+\email{ heydar.soudani@gmail.com }
+%\email{ heydar.soudani@aut.ac.ir }
+%\homepage{} % The first argument is the url for the clickable link, the second argument is the url displayed in the template - this allows special characters to be displayed such as the tilde in this example
+%\extrainfo{}
+\social[linkedin][https://www.linkedin.com/in/heydar-soudani-2b7650144/]{heydar-soudani}
+%\photo[70pt][0.2pt]{pictures/index.png} % The first bracket is the picture height, the second is the thickness of the frame around the picture (0pt for no frame)
+%\quote{"A witty and playful quotation" - John Smith}
+
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+	
+\makecvtitle
+%\vspace{-35 pt}
+%\centerline{\includegraphics[width=4.5cm, height=6cm]{1}}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+%\section{Objective}
+
+%Pursuing graduate studies in Power with an emphasis on Power Electronics and Power System towards a PhD degree and beyond so as to acquire sufficient knowledge and experience for a productive life time career in teaching and applied research.
+
+%----------------------------------------------------------------------------------------
+%	RESEARCH INTERESTS SECTION
+%----------------------------------------------------------------------------------------
+\section{RESEARCH INTERESTS}
+\begin{itemize}
+	\item{Data Stream Processing}
+	\vspace{3pt}
+	\item{Novelty Detection}
+	\vspace{3pt}
+	\item{Incremental learning}
+	\vspace{3pt}
+	\item{Machine Learning}
+	\vspace{3pt}
+	\item{Deep Learning}
+	\vspace{3pt}
+	%\item{Data Mining}
+	%\vspace{3pt}
+\end{itemize}
+
+\section{EDUCATION}
+
+\begin{itemize}
+	
+	\item \textbf{Master of Science} \hfill 2019--Present \\
+	\href{http://www.sharif.ir}{\authorimg{pictures/sharif.png} \emph{Sharif University of Technology}} \hfill \emph{Tehran-Iran}
+	
+	\begin{itemize}
+		\item Major: Computer Engineering (Artificial Intelligence) \hspace{7 pt}  
+		GPA: 17.38/20 via 20 credits
+	\end{itemize}
+	
+	
+	\item \textbf{Bachelor of Science} \hfill 2014--2019 \\
+	\href{http://aut.ac.ir/}{\authorimg{pictures/aut.png} \emph{Amirkabir University of Technology}} \hfill \emph{Tehran-Iran}
+
+	\begin{itemize}
+		\item Major: Electrical Engineering (Electronics) \hspace{51 pt}  GPA: 16.81/20 via 140 credits
+		\item Minor: Computer Engineering (Software) \hspace{58 pt} GPA: 15.33/20 via 18 credits
+	\end{itemize}
+	
+	%\item \textbf{High School} \hfill 2010--2014 \\
+	%\href{http://fahmideh.qom3sch.ir/}{\emph{Shahid Fahmide}} \hfill \emph{Qom-Iran}
+
+\end{itemize}
+
+%----------------------------------------------------------------------------------------
+%	CERTIFICATIONS SECTION
+%----------------------------------------------------------------------------------------
+\section{CERTIFICATIONS}
+
+\begin{itemize}
+
+	\item \textbf{ARM Cortex-M3 NXP1768}\\
+	This course took 50 hours to accomplish and successfully passed by the score 100/100. This course has been hold in \textbf{Tehran Institute Of Technology} in \textbf{Winter 2016}.
+	
+	\begin{itemize}
+		\item \textcolor{gray}{Teacher: Eng. Najafi }
+	\end{itemize}
+
+\end{itemize}
+
+%----------------------------------------------------------------------------------------
+%	HONOR SECTION
+%----------------------------------------------------------------------------------------
+\section{HONORS}
+
+\begin{itemize}
+	
+	\item \textbf{Ranked 234\textsuperscript{th}/661\textsuperscript{th}} in university entrance exam (Konkour), among more than 222,000
+	participant for B.Sc degree [Summer 2014].
+	
+	\item Permitted to study Software Engineering as a minor (This permission is only awarded to talented students, introduced by the Exceptional Talents Office).
+	
+	\item \textbf{Ranked 8\textsuperscript{th}} in university entrance exam (Konkour), for M.Sc degree [Summer 2019].
+\end{itemize}
+
+
+%----------------------------------------------------------------------------------------
+%	PUBLICATION SECTION
+%----------------------------------------------------------------------------------------
+%\section{PUBLICATION}
+%"Interoperability of Protection Systems in High Voltage Direct Current (HVDC) Networks", 2016 %CIGRE Canada Conference 
+%Hyatt Regency Vancouver, Vancouver, BC Canada, October 17-19, 2016 \\
+%A. Hejazizo, S. Pirooz Azad, and D. Van Hertem  \hfill \textcolor{gray}{Accepted on June 17th, %2016}
+
+
+%----------------------------------------------------------------------------------------
+%	COURSERA	
+%----------------------------------------------------------------------------------------
+
+%\section{COURSES PASSED IN \href{http://www.coursera.com}{COURSERA}}
+%\begin{itemize}
+%	\item  \authorimg{pictures/python.png}  \href{https://www.coursera.org/learn/data-scientists-tools}{The Data Scientist's Toolbox} \hfill Final Grade: 100.0\%
+%	\begin{itemize}
+%		\item \textcolor{gray}{Created by: Johns Hopkins University}
+%	\end{itemize}
+%	\item \authorimg{pictures/python.png} \href{https://www.coursera.org/learn/python}{Programming for Everybody (Getting Started with Python)}  \hfill Final Grade: 100.0\%
+%	\item  \authorimg{pictures/python.png} \href{https://www.coursera.org/learn/python-data}{Python Data Structures}  \hfill Final Grade: 100.0\%
+%	\item \authorimg{pictures/python.png}  \href{https://www.coursera.org/learn/python-network-data}{Using Python to Access Web Data}  \hfill Final Grade: 100.0\%
+%	\item  \authorimg{pictures/python.png} \href{https://www.coursera.org/learn/python-databases}{Using Databases with Python}  \hfill Final Grade: 100.0\%
+%	\begin{itemize}
+%		\item \textcolor{gray}{Created by: University of Michigan}
+%	\end{itemize}
+%
+%	\item  \authorimg{pictures/html5.PNG} \href{https://www.coursera.org/learn/html}{Introduction to HTML5}  \hfill Final Grade: 92.60\%
+%	\item  \authorimg{pictures/css3.png} \href{https://www.coursera.org/learn/introcss}{Introduction to CSS3}  \hfill Final Grade: 98.90\%
+%	\item  \authorimg{pictures/js.png} \href{https://www.coursera.org/learn/javascript}{Interactivity with JavaScript}  \hfill Final Grade: 100.0\%
+%	\begin{itemize}
+%		\item \textcolor{gray}{Created by: University of Michigan}
+%	\end{itemize}
+%\end{itemize}
+
+
+%----------------------------------------------------------------------------------------
+%	Work SECTION
+%----------------------------------------------------------------------------------------
+% \section{WORK}
+% \begin{itemize}
+% \item \textbf{Head of Frontend Developers} in Atrovan company 
+% \hfill Dec2018-now
+% \begin{itemize} 
+% 	\item Atrovan is a IoT company in Tehran and frontend team design web application dashboards for products using \textbf{ReactJs} framework.
+% \end{itemize}
+% \item \textbf{Head of Frontend Developers} in Shams company 
+% \hfill Aug2018-now
+% \begin{itemize} 
+% 	\item Shams company is working AhanForoosh (iron seller) platform. this platform handle all iron transactions in Iran. frontend team design Ahanforoosh web application using \textbf{ReactJs} framework. 
+% \end{itemize}
+% \end{itemize}
+
+
+%----------------------------------------------------------------------------------------
+%	M.Sc PROJECTS SECTION
+%----------------------------------------------------------------------------------------
+%\section{M.Sc THESIS}
+%\begin{itemize}
+%	\item \textbf{...} 
+%	\vspace{5pt}
+%	\begin{itemize}
+%		\item\textcolor{gray}{Supervisor: Dr. Beigy} 
+%	\end{itemize}
+%\end{itemize}
+
+
+%----------------------------------------------------------------------------------------
+%	B.Sc PROJECTS SECTION
+%----------------------------------------------------------------------------------------
+\section{B.Sc THESIS}
+\begin{itemize}
+	\item Providing new cloud services and \textbf{CaaS} (Container as a Service) on the Kubernetes platform. The ultimate goal is to get container from user and meet customer needs for various hardware resources (processing, network, storage, memory, etc.) at the lowest cost. This project is divided into the following sections:
+	
+	\begin{itemize}
+		\item \textbf{Docker} for dockerize applications 
+		\item \textbf{Kubernetes} for providing services
+		
+		\vspace{5pt}
+		\item\textcolor{gray}{Supervisor: Dr. Taheri} 
+	\end{itemize}
+\end{itemize}
+
+%----------------------------------------------------------------------------------------
+%	INTERNSHIP SECTION
+%----------------------------------------------------------------------------------------
+\section{INTERNSHIP}
+\begin{itemize}
+	\item \textbf{Creating mobile application for learning English language}
+	\item Studying \textbf{React Native} and \textbf{Redux} mobile application frameworks.
+	\item Developing back-end server for mobile applications using \textbf{Laravel} framework.
+	\begin{itemize} 
+		\item\textcolor{gray}{Supervisor: Dr. Sharifian} 
+	\end{itemize}
+\end{itemize}
+
+%----------------------------------------------------------------------------------------
+%	Experience SECTION
+%----------------------------------------------------------------------------------------
+\section{EXPERIENCE}
+
+\begin{itemize}
+	
+\item \textbf{Web Application Developer} \hfill Jan 2018--Present \\
+\href{http://atrovan.com}{\authorimg{pictures/atrovan.png} \emph{Andishe Fartak Amirkabir (Atrovan)}} \hfill \emph{Tehran-Iran}
+\vspace{1mm}
+\linebreak
+Developing Web applications for:
+\begin{itemize}
+	\item Home automation (Smart Home)
+	\item Fleet management system (Fleetak)
+	\item Building management system (BMS)
+\end{itemize}
+Developing Compony's Website
+
+\item \textbf{Web Application Developer} \hfill Jun 2018--Jun 2019 \\
+\href{http://shamstech.ir}{\authorimg{pictures/shams.png} \emph{Tosee Pardazan Andishe Gostar (Shams)}} \hfill \emph{Tehran-Iran}
+\vspace{1mm}
+\linebreak
+Developing Web applications for:
+\begin{itemize}
+	\item two-sided platform for iron-sellers \& buyers.
+\end{itemize}
+Developing Compony's Website
+
+\item \textbf{Programmer} \hfill Jan 2016--Oct 2017 \\
+\authorimg{pictures/aut.png} \emph{Control of Multi Vehicle Systems Laboratory} \hfill \emph{Tehran-Iran}
+
+\begin{itemize}
+	\item Programming AVR and Arduino micro-controllers.  
+	\item Designing a controller.
+	\item Machine Vision.
+\end{itemize}
+	
+\end{itemize}
+
+
+%----------------------------------------------------------------------------------------
+%	LANGUAGE SKILLS SECTION
+%----------------------------------------------------------------------------------------
+\section{LANGUAGE SKILLS}
+
+\begin{itemize}
+	\item Persian \hspace{5 pt} Native
+	\item Arabic \hspace{8 pt}  Native
+	\item English \hspace{6 pt} Intermediate
+\end{itemize} 
+
+
+%----------------------------------------------------------------------------------------
+%	BEST COURSES SECTION
+%----------------------------------------------------------------------------------------
+\section{SOME COURSES}
+
+% makes the text in two columns
+\begin{multicols}{2} 
+	\begin{itemize}
+		
+		\item Machine Learning Theory               	 \hfill{19.7} 
+		\item Deep Learning               	 			 \hfill{18.6}
+		\item Digital Image Processing               	 \hfill{18.5} 
+		\item Convex Optimization               		 \hfill{16.9} 
+		
+		\item Advanced Programming                    	 \hfill{17.25}
+		\item Computer Programming               		 \hfill{17.5}  
+		\item Computer Architecture \& Microprocessors   \hfill{19.1}
+		\item Microprocessor Systems \& Interfaces		 \hfill{18}
+		\item Digital Signal Processing					 \hfill{16.7}
+		\item Electric Circuit II                      	 \hfill{18}   
+		\item Electronic II                              \hfill{16.9}
+		\item Design Automation Of Digital Systems		 \hfill{16.6}
+		\item Internet Engineering						 \hfill{16.5}
+		\item Embedded Systems 							 \hfill{16.5}
+		%\item Linear Control Systems                     \hfill{17.5}  
+		%\item Engineering Mathemathics                   \hfill{19}
+		%\item Signals \& Systems                         \hfill{19}
+		
+	\end{itemize}
+	
+\end{multicols}
+
+
+%----------------------------------------------------------------------------------------
+%	COMPUTER SKILLS SECTION
+%----------------------------------------------------------------------------------------
+\section{COMPUTER SKILLS}
+
+\vspace{1em}
+\subsection{Programming Languages}
+\begin{multicols}{4} 
+	\begin{itemize}
+		\item \authorimg{pictures/js.png} JavaScript
+		\vspace{5pt}
+		\item \authorimg{pictures/typescript.png} TypeScript
+		\vspace{5pt}
+		%\item \authorimg{pictures/js.png} jQuery
+		%\vspace{5pt}
+		\item \authorimg{pictures/html5.png} HTML5 
+		\vspace{5pt}
+		\item \authorimg{pictures/css3.png} CSS3
+		\vspace{5pt}
+		\item \authorimg{pictures/python.png} Python 
+		\vspace{5pt}
+		\item \authorimg{pictures/cpp.png} C\raisebox{1pt}{\tiny++}
+		\vspace{5pt}
+		\item \authorimg{pictures/c.png} C
+		\vspace{5pt}
+		%\item \authorimg{pictures/php.png} Php
+		%\vspace{5pt}
+		%\item \authorimg{pictures/mysql.png} mySQL
+		%\vspace{5pt}
+		\item \authorimg{pictures/latex.png} \LaTeX
+		\vspace{5pt}
+		%\item \authorimg{pictures/vhdl.jpg} VHDL
+		%\vspace{5pt}
+	\end{itemize}
+\end{multicols}
+
+\subsection{Machine Learning Frameworks}
+\begin{multicols}{4}
+	\begin{itemize}
+		\item \authorimg{pictures/pytorch.png} PyTorch
+		\vspace{5pt}
+	\end{itemize}
+	\begin{itemize}
+		\item \authorimg{pictures/MOA_s.jpg} MOA
+		\vspace{5pt}
+	\end{itemize}
+	\begin{itemize}
+		\item \authorimg{pictures/tensorflow.png} TensorFlow
+		\vspace{5pt}
+	\end{itemize}
+\end{multicols}
+
+\subsection{Web Application Frameworks}
+\begin{multicols}{4}
+	\begin{itemize}
+		\item \authorimg{pictures/react.jpg} React Js
+		\vspace{5pt}
+		\item \authorimg{pictures/next.jpg} Next Js
+		\vspace{5pt}
+		\item \authorimg{pictures/redux.png} Redux
+		\vspace{5pt}
+		\item \authorimg{pictures/jest.png} JEST
+		\vspace{5pt}
+		\item \authorimg{pictures/nodejs.png} Node Js
+		\vspace{5pt}
+		\item \authorimg{pictures/express.png} Express
+		\vspace{5pt}
+		\item \authorimg{pictures/WordPress.png} Wordpress
+		\vspace{5pt}
+		%\item \authorimg{pictures/bootstrap.png} Bootstrap
+		%\vspace{5pt}
+		%\item \authorimg{pictures/MaterializeCSS.png} Materialize CSS	
+		%\vspace{5pt}
+		%\item \authorimg{pictures/laravel.png} Laravel
+		%\vspace{5pt}
+	\end{itemize}
+\end{multicols}
+
+\subsection{Technical Softwares}
+\begin{multicols}{4}
+	\begin{itemize}
+		\item \authorimg{pictures/visual.png} MS. Visual Studio
+		\vspace{5pt}
+		\item \authorimg{pictures/matlab.jpg} Matlab
+		\vspace{5pt}
+		\item \authorimg{pictures/Keil.png} Keil
+		\vspace{5pt}
+		\item \authorimg{pictures/arduino.png} Arduino
+		\vspace{5pt}
+		\item \authorimg{pictures/arm-mbed.png} ARM mbed
+		\vspace{5pt}
+		\item \authorimg{pictures/git.png} git
+		%\item \authorimg{pictures/qt.png} Qt Creator 
+		%\vspace{5pt}
+		%\item \authorimg{pictures/Altium-Designer.jpg} Altium Designer
+		%\vspace{5pt}
+		%\item \authorimg{pictures/vivado.jpg} Vivado
+		%\vspace{5pt} 
+		%\item \authorimg{pictures/proteus.jpg} Proteus
+		%\vspace{5pt}
+		%\item \authorimg{pictures/ads.png} ADS
+		%\vspace{5pt}
+		%\item \authorimg{pictures/apm-planner.jpg} Apm planner
+		%\vspace{5pt}
+		%\item \authorimg{pictures/qt.png} PyQt
+		%\vspace{5pt}	
+	\end{itemize}
+\end{multicols}
+
+\subsection{Software Tools}
+\begin{multicols}{4}
+	\begin{itemize}
+		\item \authorimg{pictures/docker.jpeg} Docker
+		\vspace{5pt}
+		\item \authorimg{pictures/Kubernetes.png} Kubernetes
+		\vspace{5pt}
+	\end{itemize}
+\end{multicols}
+
+
+
+%----------------------------------------------------------------------------------------
+%	ACADEMIC PROJECTS SECTION
+%----------------------------------------------------------------------------------------
+\section{ACADEMIC PROJECTS}
+
+\begin{itemize}
+	
+	\item Implementing \textbf{Learning Semantic-Specific Graph Representation for Multi-Label Image Recognition} ICCV 2019 paper with VOC2007 dataset using \textbf{Pytorch} framework.
+	\begin{itemize}
+		\item \textcolor{gray}{Supervisor: Prof. Kasaei [Summer 2020]}
+		\newline
+	\end{itemize}
+	
+	\item Designing and implementing \textbf{Binary and Multi Classifier} with the help of \textbf{Logistic regression} on data from normal distribution and MNIST dataset. We use \textbf{Gradient Descent}, \textbf{Newton}, \textbf{Natural Gradient}, \textbf{Stochastic Gradient Descent} and \textbf{SVRG} methods for optimization.
+	\begin{itemize}
+		\item \textcolor{gray}{Supervisor: Dr. Jafari Siavoshani [Summer 2020]}
+		\newline
+	\end{itemize}
+	
+	\item \textbf{Image and Video processing} using \textbf{OpenCV} library with python language.
+	\begin{itemize}
+		\item \textcolor{gray}{Supervisor: Dr. Nik Abadi [Winter 2018]}
+		\newline
+	\end{itemize}
+
+	\item \textbf{Graph Coloring} using \textbf{BColoring} Algorithm with python language.
+	\begin{itemize}
+		\item \textcolor{gray}{Supervisor: Dr. Bagheri [Summer 2018]}
+		\newline
+	\end{itemize}
+
+	\item \textbf{Implementing IOT network using Co-Design FPGA}. Containing smart parking and watering system and security system parts and this parts are controlled by \textbf{Microblaze}.
+	\begin{itemize}
+		\item \textcolor{gray}{Supervisor: Dr. Saheb Zamani [Winter 2017]}
+		\newline
+	\end{itemize}
+
+	\item \textbf{Speaker Recognition} is the process of automatically recognizing who is speaking on the basis of individual information included in speech waves.This project implemented by  \textbf{Neural Network} and \textbf{multilayer perceptron} method.
+	\begin{itemize}
+		\item \textcolor{gray}{Supervisor: Dr. Abdollahi [Winter 2017]}
+		\newline
+	\end{itemize}
+
+	\item \textbf{Flying Quadcopter}. Controlling and flying quadcopter using \textbf{erle-brain3} and \textbf{Apm planner} software.
+	\begin{itemize}
+		\item \textcolor{gray}{Supervisor: Dr. Abdollahi [Summer 2017]}
+		\newline
+	\end{itemize}
+
+	\item \textbf{ECG plotter}. In this project we read heart beat and bpm and body temperature by sensors using \textbf{arduino}. After that send data to PC by Serial and plot graph for significant signs of the body in GUI. This GUI created by \textbf{pyQt}.
+	\begin{itemize}
+		\item \textcolor{gray}{Supervisor: Dr. Jahanshahi [Spring 2017]}
+		\newline
+	\end{itemize}
+
+	\item \textbf{Implementing Wireless IOT Devices}. Data gathering from \textbf{PIR}, \textbf{Temperature \& Humidity} sensors using \textbf{ESP} module.
+	\begin{itemize}
+		\item \textcolor{gray}{Supervisor: Dr. Sharifian [Spring 2017]}
+		\newline
+	\end{itemize}
+
+	\item \textbf{Online Food Ordering Website}. Developing and designing an online food ordering website using \textbf{HTML}, \textbf{CSS}, and \textbf{JavaScript} for front-end and \textbf{Php} and \textbf{mySQL} for back-end of the website.
+	\begin{itemize}
+		\item \textcolor{gray}{Supervisor: Dr. Bakhshi [Spring 2017]}
+		\newline
+	\end{itemize}
+
+	\item \textbf{Designing Smoothing Spot Filter}. This filters are used for Amazeing and Noise Reduction and this filter implemented by %\textbf{Assembly}.
+	\begin{itemize}
+		\item \textcolor{gray}{Supervisor: Dr. Raie [Winter 2016]}
+		\newline
+	\end{itemize}
+
+	\item \textbf{Designing control system for vertical take off and landing (VTOL) aircraft}. Controlling velocity and break system and rotate direction and Analyzing System Equations using \textbf{Matlab} software.
+	\begin{itemize}
+		\item \textcolor{gray}{Supervisor: Dr. HA. Talebi [Winter 2016]}
+		\newline
+	\end{itemize}
+
+	\item \textbf{UGV Control \& Remote Connection}. Designing electronic board using \textbf{Altium Designer} software for reading sensors and motors rpm. Then this board send data to another board that connect to PC using \textbf{UDP} protocol.
+	\begin{itemize}
+		\item \textcolor{gray}{Supervisor: Dr. Abdollahi [Winter 2016]}
+		\newline
+	\end{itemize}
+
+
+\end{itemize}
+
+
+
+
+%----------------------------------------------------------------------------------------
+%	HOBBIES AND INTERESTS SECTION
+%----------------------------------------------------------------------------------------
+
+
+%----------------------------------------------------------------------------------------
+%	References and Proofs
+%----------------------------------------------------------------------------------------
+%\vspace{-1em}
+%\centerline{\underline{\textbf{	\faExclamationCircle \hspace{0.5 pt} References, Further information, and Proofs are available upon Request}}}
+
+\end{document}
+
+%----------------------------------------------------------------------------------------
+%----------------------------------------------------------------------------------------
