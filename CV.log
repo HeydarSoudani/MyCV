@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.8.10)  12 MAY 2021 01:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.8.10)  14 MAY 2021 10:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -743,90 +743,90 @@ Underfull \hbox (badness 10000) in paragraph at lines 78--78
 LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <14.4> not available
 (Font)              Font shape `T1/lmss/bx/n' tried instead on input line 93.
 LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <10> not available
-(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 113.
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 116.
 <pictures/sharif.png, id=72, 1027.84pt x 1027.84pt>
 File: pictures/sharif.png Graphic file (type png)
 <use pictures/sharif.png>
-Package pdftex.def Info: pictures/sharif.png  used on input line 114.
+Package pdftex.def Info: pictures/sharif.png  used on input line 117.
 (pdftex.def)             Requested size: 11.99791pt x 11.99791pt.
 LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <12> not available
-(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 117.
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 120.
 <pictures/aut.png, id=75, 112.92188pt x 123.46124pt>
 File: pictures/aut.png Graphic file (type png)
 <use pictures/aut.png>
-Package pdftex.def Info: pictures/aut.png  used on input line 123.
+Package pdftex.def Info: pictures/aut.png  used on input line 126.
 (pdftex.def)             Requested size: 10.97408pt x 11.99832pt.
 LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <7> not available
-(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 158.
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 161.
 [1
 
 {c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <d:/uni/CV/pictures/sharif.png> <d:/uni/CV/pictures/aut.png>]
 <pictures/atrovan.png, id=91, 85.0377pt x 85.0377pt>
 File: pictures/atrovan.png Graphic file (type png)
 <use pictures/atrovan.png>
-Package pdftex.def Info: pictures/atrovan.png  used on input line 271.
+Package pdftex.def Info: pictures/atrovan.png  used on input line 274.
 (pdftex.def)             Requested size: 11.99991pt x 11.99991pt.
 <pictures/shams.png, id=93, 401.5pt x 401.5pt>
 File: pictures/shams.png Graphic file (type png)
 <use pictures/shams.png>
-Package pdftex.def Info: pictures/shams.png  used on input line 283.
+Package pdftex.def Info: pictures/shams.png  used on input line 286.
 (pdftex.def)             Requested size: 11.99547pt x 11.99547pt.
 File: pictures/aut.png Graphic file (type png)
 <use pictures/aut.png>
-Package pdftex.def Info: pictures/aut.png  used on input line 293.
+Package pdftex.def Info: pictures/aut.png  used on input line 296.
 (pdftex.def)             Requested size: 10.97408pt x 11.99832pt.
 
 
 LaTeX Font Warning: Font shape `T1/lmss/sb/n' undefined
-(Font)              using `T1/lmss/m/n' instead on input line 355.
+(Font)              using `T1/lmss/m/n' instead on input line 358.
 
 
-Underfull \hbox (badness 10000) detected at line 355
+Underfull \hbox (badness 10000) detected at line 358
 \T1/lmss/m/n/7 .
  []
 
 <pictures/js.png, id=94, 451.6875pt x 451.6875pt>
 File: pictures/js.png Graphic file (type png)
 <use pictures/js.png>
-Package pdftex.def Info: pictures/js.png  used on input line 358.
+Package pdftex.def Info: pictures/js.png  used on input line 361.
 (pdftex.def)             Requested size: 11.99928pt x 11.99928pt.
 <pictures/typescript.png, id=95, 192.72pt x 192.72pt>
 File: pictures/typescript.png Graphic file (type png)
 <use pictures/typescript.png>
-Package pdftex.def Info: pictures/typescript.png  used on input line 360.
+Package pdftex.def Info: pictures/typescript.png  used on input line 363.
 (pdftex.def)             Requested size: 11.99791pt x 11.99791pt.
 <pictures/html5.png, id=96, 513.92pt x 513.92pt>
 File: pictures/html5.png Graphic file (type png)
 <use pictures/html5.png>
-Package pdftex.def Info: pictures/html5.png  used on input line 364.
+Package pdftex.def Info: pictures/html5.png  used on input line 367.
 (pdftex.def)             Requested size: 11.99791pt x 11.99791pt.
 <pictures/css3.png, id=97, 1027.84pt x 1027.84pt>
 File: pictures/css3.png Graphic file (type png)
 <use pictures/css3.png>
-Package pdftex.def Info: pictures/css3.png  used on input line 366.
+Package pdftex.def Info: pictures/css3.png  used on input line 369.
 (pdftex.def)             Requested size: 11.99791pt x 11.99791pt.
 <pictures/python.png, id=98, 752.8125pt x 861.2175pt>
 File: pictures/python.png Graphic file (type png)
 <use pictures/python.png>
-Package pdftex.def Info: pictures/python.png  used on input line 368.
+Package pdftex.def Info: pictures/python.png  used on input line 371.
 (pdftex.def)             Requested size: 10.48761pt x 11.99782pt.
 <pictures/cpp.png, id=99, 146.79843pt x 170.88844pt>
 File: pictures/cpp.png Graphic file (type png)
 <use pictures/cpp.png>
-Package pdftex.def Info: pictures/cpp.png  used on input line 370.
+Package pdftex.def Info: pictures/cpp.png  used on input line 373.
 (pdftex.def)             Requested size: 10.30829pt x 11.99991pt.
 <pictures/c.png, id=100, 301.125pt x 301.125pt>
 File: pictures/c.png Graphic file (type png)
 <use pictures/c.png>
-Package pdftex.def Info: pictures/c.png  used on input line 372.
+Package pdftex.def Info: pictures/c.png  used on input line 375.
 (pdftex.def)             Requested size: 11.997pt x 11.997pt.
 <pictures/latex.png, id=101, 128.48pt x 128.48pt>
 File: pictures/latex.png Graphic file (type png)
 <use pictures/latex.png>
-Package pdftex.def Info: pictures/latex.png  used on input line 378.
+Package pdftex.def Info: pictures/latex.png  used on input line 381.
 (pdftex.def)             Requested size: 11.99988pt x 11.99988pt.
 
-Underfull \hbox (badness 10000) detected at line 385
+Underfull \hbox (badness 10000) detected at line 388
 \T1/lmss/m/n/7 .
  []
 
@@ -834,179 +834,179 @@ Underfull \hbox (badness 10000) detected at line 385
 <pictures/pytorch.png, id=117, 2509.375pt x 2509.375pt>
 File: pictures/pytorch.png Graphic file (type png)
 <use pictures/pytorch.png>
-Package pdftex.def Info: pictures/pytorch.png  used on input line 388.
+Package pdftex.def Info: pictures/pytorch.png  used on input line 391.
 (pdftex.def)             Requested size: 11.98474pt x 11.98474pt.
 <pictures/MOA_s.jpg, id=118, 199.74625pt x 200.75pt>
 File: pictures/MOA_s.jpg Graphic file (type jpg)
 <use pictures/MOA_s.jpg>
-Package pdftex.def Info: pictures/MOA_s.jpg  used on input line 392.
+Package pdftex.def Info: pictures/MOA_s.jpg  used on input line 395.
 (pdftex.def)             Requested size: 11.93854pt x 11.99852pt.
 <pictures/tensorflow.png, id=119, 225.84375pt x 225.84375pt>
 File: pictures/tensorflow.png Graphic file (type png)
 <use pictures/tensorflow.png>
-Package pdftex.def Info: pictures/tensorflow.png  used on input line 396.
+Package pdftex.def Info: pictures/tensorflow.png  used on input line 399.
 (pdftex.def)             Requested size: 11.99928pt x 11.99928pt.
 
-Underfull \hbox (badness 10000) detected at line 401
+Underfull \hbox (badness 10000) detected at line 404
 \T1/lmss/m/n/7 .
  []
 
 <pictures/react.jpg, id=120, 1093.08376pt x 1008.76875pt>
 File: pictures/react.jpg Graphic file (type jpg)
 <use pictures/react.jpg>
-Package pdftex.def Info: pictures/react.jpg  used on input line 404.
+Package pdftex.def Info: pictures/react.jpg  used on input line 407.
 (pdftex.def)             Requested size: 11.99226pt x 11.06723pt.
 <pictures/next.jpg, id=121, 1204.5pt x 1128.215pt>
 File: pictures/next.jpg Graphic file (type jpg)
 <use pictures/next.jpg>
-Package pdftex.def Info: pictures/next.jpg  used on input line 406.
+Package pdftex.def Info: pictures/next.jpg  used on input line 409.
 (pdftex.def)             Requested size: 11.98322pt x 11.22427pt.
 <pictures/redux.png, id=122, 828.696pt x 748.9581pt>
 File: pictures/redux.png Graphic file (type png)
 <use pictures/redux.png>
-Package pdftex.def Info: pictures/redux.png  used on input line 408.
+Package pdftex.def Info: pictures/redux.png  used on input line 411.
 (pdftex.def)             Requested size: 11.99997pt x 10.84532pt.
 <pictures/jest.png, id=123, 602.25pt x 602.25pt>
 File: pictures/jest.png Graphic file (type png)
 <use pictures/jest.png>
-Package pdftex.def Info: pictures/jest.png  used on input line 410.
+Package pdftex.def Info: pictures/jest.png  used on input line 413.
 (pdftex.def)             Requested size: 11.9924pt x 11.9924pt.
 <pictures/nodejs.png, id=124, 436.63126pt x 474.77374pt>
 File: pictures/nodejs.png Graphic file (type png)
 <use pictures/nodejs.png>
-Package pdftex.def Info: pictures/nodejs.png  used on input line 412.
+Package pdftex.def Info: pictures/nodejs.png  used on input line 415.
 (pdftex.def)             Requested size: 11.033pt x 11.99681pt.
 <pictures/express.png, id=125, 150.5625pt x 150.5625pt>
 File: pictures/express.png Graphic file (type png)
 <use pictures/express.png>
-Package pdftex.def Info: pictures/express.png  used on input line 414.
+Package pdftex.def Info: pictures/express.png  used on input line 417.
 (pdftex.def)             Requested size: 11.99928pt x 11.99928pt.
 <pictures/WordPress.png, id=126, 513.92pt x 513.92pt>
 File: pictures/WordPress.png Graphic file (type png)
 <use pictures/WordPress.png>
-Package pdftex.def Info: pictures/WordPress.png  used on input line 416.
+Package pdftex.def Info: pictures/WordPress.png  used on input line 419.
 (pdftex.def)             Requested size: 11.99791pt x 11.99791pt.
 
-Underfull \hbox (badness 10000) detected at line 427
+Underfull \hbox (badness 10000) detected at line 430
 \T1/lmss/m/n/7 .
  []
 
 <pictures/visual.png, id=127, 264.23718pt x 237.13594pt>
 File: pictures/visual.png Graphic file (type png)
 <use pictures/visual.png>
-Package pdftex.def Info: pictures/visual.png  used on input line 430.
+Package pdftex.def Info: pictures/visual.png  used on input line 433.
 (pdftex.def)             Requested size: 11.99901pt x 10.76834pt.
 <pictures/matlab.jpg, id=128, 685.8122pt x 589.4522pt>
 File: pictures/matlab.jpg Graphic file (type jpg)
 <use pictures/matlab.jpg>
-Package pdftex.def Info: pictures/matlab.jpg  used on input line 432.
+Package pdftex.def Info: pictures/matlab.jpg  used on input line 435.
 (pdftex.def)             Requested size: 11.99246pt x 10.30746pt.
 <pictures/Keil.png, id=129, 316.18124pt x 301.8778pt>
 File: pictures/Keil.png Graphic file (type png)
 <use pictures/Keil.png>
-Package pdftex.def Info: pictures/Keil.png  used on input line 434.
+Package pdftex.def Info: pictures/Keil.png  used on input line 437.
 (pdftex.def)             Requested size: 11.9986pt x 11.45581pt.
 <pictures/arduino.png, id=130, 216.81pt x 191.21437pt>
 File: pictures/arduino.png Graphic file (type png)
 <use pictures/arduino.png>
-Package pdftex.def Info: pictures/arduino.png  used on input line 436.
+Package pdftex.def Info: pictures/arduino.png  used on input line 439.
 (pdftex.def)             Requested size: 11.99901pt x 10.58246pt.
 <pictures/arm-mbed.png, id=131, 225.84375pt x 225.84375pt>
 File: pictures/arm-mbed.png Graphic file (type png)
 <use pictures/arm-mbed.png>
-Package pdftex.def Info: pictures/arm-mbed.png  used on input line 438.
+Package pdftex.def Info: pictures/arm-mbed.png  used on input line 441.
 (pdftex.def)             Requested size: 11.99928pt x 11.99928pt.
 <pictures/git.png, id=132, 200.75pt x 200.75pt>
 File: pictures/git.png Graphic file (type png)
 <use pictures/git.png>
-Package pdftex.def Info: pictures/git.png  used on input line 440.
+Package pdftex.def Info: pictures/git.png  used on input line 443.
 (pdftex.def)             Requested size: 11.99852pt x 11.99852pt.
 
-Underfull \hbox (badness 10000) detected at line 458
+Underfull \hbox (badness 10000) detected at line 461
 \T1/lmss/m/n/7 .
  []
 
 <pictures/docker.jpeg, id=133, 803.0pt x 665.48625pt>
 File: pictures/docker.jpeg Graphic file (type jpg)
 <use pictures/docker.jpeg>
-Package pdftex.def Info: pictures/docker.jpeg  used on input line 461.
+Package pdftex.def Info: pictures/docker.jpeg  used on input line 464.
 (pdftex.def)             Requested size: 11.99547pt x 9.94124pt.
 <pictures/Kubernetes.png, id=134, 125.46875pt x 125.46875pt>
 File: pictures/Kubernetes.png Graphic file (type png)
 <use pictures/Kubernetes.png>
-Package pdftex.def Info: pictures/Kubernetes.png  used on input line 463.
+Package pdftex.def Info: pictures/Kubernetes.png  used on input line 466.
 (pdftex.def)             Requested size: 11.99814pt x 11.99814pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 479--481
+Underfull \hbox (badness 10000) in paragraph at lines 482--484
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 485--487
+Underfull \hbox (badness 10000) in paragraph at lines 488--490
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 491--493
+Underfull \hbox (badness 10000) in paragraph at lines 494--496
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 497--499
+Underfull \hbox (badness 10000) in paragraph at lines 500--502
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 503--505
+Underfull \hbox (badness 10000) in paragraph at lines 506--508
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 509--511
+Underfull \hbox (badness 10000) in paragraph at lines 512--514
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 515--517
+Underfull \hbox (badness 10000) in paragraph at lines 518--520
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 521--523
+Underfull \hbox (badness 10000) in paragraph at lines 524--526
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 527--529
+Underfull \hbox (badness 10000) in paragraph at lines 530--532
 
  []
 
 [3 <d:/uni/CV/pictures/pytorch.png> <d:/uni/CV/pictures/MOA_s.jpg> <d:/uni/CV/pictures/tensorflow.png> <d:/uni/CV/pictures/react.jpg> <d:/uni/CV/pictures/next.jpg> <d:/uni/CV/pictures/redux.png> <d:/uni/CV/pictures/jest.png> <d:/uni/CV/pictures/nodejs.png> <d:/uni/CV/pictures/express.png> <d:/uni/CV/pictures/WordPress.png> <d:/uni/CV/pictures/visual.png> <d:/uni/CV/pictures/matlab.jpg> <d:/uni/CV/pictures/Keil.png> <d:/uni/CV/pictures/arduino.png> <d:/uni/CV/pictures/arm-mbed.png> <d:/uni/CV/pictures/git.png> <d:/uni/CV/pictures/docker.jpeg> <d:/uni/CV/pictures/Kubernetes.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 533--535
+Underfull \hbox (badness 10000) in paragraph at lines 536--538
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 539--541
+Underfull \hbox (badness 10000) in paragraph at lines 542--544
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 545--547
+Underfull \hbox (badness 10000) in paragraph at lines 548--550
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 551--553
+Underfull \hbox (badness 10000) in paragraph at lines 554--556
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 572.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 575.
 [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 572.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 575.
  (d:/uni/CV/CV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 572.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 572.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 575.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 575.
 Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: 7AA7348D5A1E895DF59DB7B4BED670F7;2016.
 
@@ -1017,13 +1017,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  22147 strings out of 492649
  375595 string characters out of 6133384
- 566336 words of memory out of 5000000
+ 567336 words of memory out of 5000000
  25749 multiletter control sequences out of 15000+600000
  589677 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  51i,13n,45p,10364b,455s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/texlive/2018/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}<c:/texlive/2018/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/lm/lmss10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/lm/lmss12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/lm/lmss17.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/lm/lmss8.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/lm/lmsso10.pfb>
-Output written on d:/uni/CV/CV.pdf (4 pages, 1285696 bytes).
+Output written on d:/uni/CV/CV.pdf (4 pages, 1284878 bytes).
 PDF statistics:
  194 PDF objects out of 1000 (max. 8388607)
  124 compressed objects within 2 object streams
